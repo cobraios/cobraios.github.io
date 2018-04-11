@@ -40,4 +40,7 @@
 		</link>
 	</links>
 	-->
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
 </package>
