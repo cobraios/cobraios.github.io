@@ -75,3 +75,18 @@ Description: XenInfo gathers info from the weather.framework you must have the W
 Name: XenInfo
 Author: Cobra IOS <iphone.cobraios@gmail.com>
 
+Package: XenInfo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CCobra IOS
+Depends: 
+Replaces: com.cobraios.xeninfo (<< 0.0.1)
+Filename: debs/xeninfo_02.deb
+Size: 17034
+MD5sum: d9ca7ae9abf5c20f15305464b0cdb8db
+SHA1: c13ef42d1d4bfd2bb7a3b728bab2bf42f4c33f2e
+SHA256: 5d4a3cfc1f7d079a61f4810841f88cbcd682840640aa05e68b65cf0cbfe7c521
+Section: Xen
+Priority: standard
+Description: Description: XenInfo gathers info from the weather.framework you must have the Weather.app installed and have weather set to always in location settings. (iPX users) setting to always isn't a must but highly recommended.
+Name: XenInfo
