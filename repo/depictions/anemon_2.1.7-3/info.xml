@@ -1,6 +1,6 @@
 <package>
 	<id>com.cobraios.anemone</id>
-	<name><img src="img/AnemoneIcon.png"> Anemone</name>
+	<name>Anemone</name>
 	<version>2.1.7-3</version>
 	<compatibility>
 		<firmware>
