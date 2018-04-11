@@ -1,6 +1,6 @@
 <package>
 	<id>com.cobraios.xeninfo</id>
-	<name>AXenInfo</name>
+	<name>XenInfo</name>
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
