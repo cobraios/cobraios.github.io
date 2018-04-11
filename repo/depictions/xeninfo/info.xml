@@ -41,6 +41,6 @@
 	</links>
 	-->
 	<changelog>
-		<change>Fixed a safemode crash<br>Changed Weather update</change>
+		<change>Fixed a safemode crash and Changed Weather update</change>
 	</changelog>
 </package>
