@@ -1,7 +1,7 @@
 <package>
-	<id>com.cobraios.anemone</id>
-	<name>Anemone</name>
-	<version>2.1.7-3</version>
+	<id>com.cobraios.xeninfo</id>
+	<name>AXenInfo</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -9,10 +9,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>RocketBoostrap</package>
+		<package>XenHTML</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Anemone, a revolutionary theming engine for iOS 7 to iOS 11.1.2! Theme more than just images</description>
+		<description>XenInfo gathers info from the weather.framework you must have the Weather.app installed and have weather set to always in location settings. (iPX users) setting to always isn't a must but highly recommended. </description>
 		<!--
 		<description><![CDATA[
 		You can also have<br/> 

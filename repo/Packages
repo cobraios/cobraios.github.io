@@ -60,3 +60,18 @@ Description: This is a widget that has been coded for xenInfo.
 Name: Xen Astral Weather 2
 Author: Cobra IOS <iphone.cobraios@gmail.com>
 
+Package: com.cobraios.xeninfo
+Section: Widgets
+Maintainer: Cobra IOS
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Depends: 
+Filename: debs/xeninfo.deb
+Size: 17198
+MD5sum: c5d1c62976dde83516151d33ef827781
+SHA1: a4fa153eb277d73e5b0d879505faca1a66fa2b03
+SHA256: d164e81d7ea78f27064f7e7883026d78fd58e8a13a7eab94beebdd8fa9f2a430
+Description: XenInfo gathers info from the weather.framework you must have the Weather.app installed and have weather set to always in location settings. (iPX users) setting to always isn't a must but highly recommended.
+Name: XenInfo
+Author: Cobra IOS <iphone.cobraios@gmail.com>
+
