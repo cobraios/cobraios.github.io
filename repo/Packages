@@ -61,10 +61,10 @@ Name: Xen Astral Weather 2
 Author: Cobra IOS <iphone.cobraios@gmail.com>
 
 Package: com.cobraios.xeninfo
-Section: Widgets
+Section: Xen
 Maintainer: Cobra IOS
 Architecture: iphoneos-arm
-Version: 0.0.1-1
+Version: 0.0.1
 Depends: 
 Filename: debs/xeninfo.deb
 Size: 17198
