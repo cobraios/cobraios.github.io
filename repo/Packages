@@ -75,10 +75,10 @@ Description: XenInfo gathers info from the weather.framework you must have the W
 Name: XenInfo
 Author: Cobra IOS <iphone.cobraios@gmail.com>
 
-Package: XenInfo
+Package: com.cobraios.xeninfo
 Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: CCobra IOS
+Maintainer: Cobra IOS
 Depends: 
 Replaces: com.cobraios.xeninfo (<< 0.0.1)
 Filename: debs/xeninfo_02.deb
