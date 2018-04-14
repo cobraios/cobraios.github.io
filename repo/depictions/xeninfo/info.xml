@@ -42,5 +42,6 @@
 	-->
 	<changelog>
 		<change>Fixed a safemode crash and Changed Weather update</change>
+		<change>The weather condition code has been up dated to the following: translate[current].condition[weather.conditionCode]</change>
 	</changelog>
 </package>
