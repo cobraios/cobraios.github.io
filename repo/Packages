@@ -86,13 +86,13 @@ Package: com.cobraios.XenAi
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: cobraios
-Depends: com.junesiphone.xeninfo
+Depends: com.cobraios.xeninfo
 Filename: ./debs/xenai_01.deb
-Size: 3454948
-MD5sum: 9d4ba98834455ec3725839ec105ecffd
-SHA1: 1cbbb3188e8747b998e66c0f79669870df9c301c
-SHA256: 8deae57e5da5476747361ca562c115dd15f123f23219ff59e48d6dfbc9ed909f
-Section: widgets
+Size: 3454950
+MD5sum: 5c2c60db2dd4e11e909469f4462c2c9b
+SHA1: 3cd2bf9c343fcef7d74e68a6158f816a52e39987
+SHA256: a21dfb206008c28d2f98fabfde8ae1fcb37f26de73c2b1646e32a3f646447998
+Section: widgets(XenInfo)
 Homepage: http://cobraios.github.io
 Description: XenAi is a widget that shows you weather and battery.
 Author: cobraios < http://cobraios.github.io >
