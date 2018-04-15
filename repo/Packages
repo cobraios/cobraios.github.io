@@ -83,15 +83,14 @@ Author: cobraios < http://cobraios.github.io >
 Name: Sweet Burst
 
 Package: com.cobraios.XenAi
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: cobraios
-Depends: com.cobraios.xeninfo
 Filename: ./debs/xenai_01.deb
-Size: 3454950
-MD5sum: 5c2c60db2dd4e11e909469f4462c2c9b
-SHA1: 3cd2bf9c343fcef7d74e68a6158f816a52e39987
-SHA256: a21dfb206008c28d2f98fabfde8ae1fcb37f26de73c2b1646e32a3f646447998
+Size: 3454942
+MD5sum: 9a389f46fedcdd40376015a2a6ef5581
+SHA1: f27ee7920265ac39f679bf154e2228cd6c7195f1
+SHA256: f735a678d6c43ae8bfb7751706a4676f06db4ea06dd22f64bb4251609092c4b7
 Section: widgets(XenInfo)
 Homepage: http://cobraios.github.io
 Description: XenAi is a widget that shows you weather and battery.
