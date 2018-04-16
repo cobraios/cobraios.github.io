@@ -1,7 +1,7 @@
 <?php
 
 $users = array(
-	"user1" => "909a4ba097c70dd2067966aa4b3d0c219dfece62",
+	"user1" => "b747047a1e4c9442afd96508cf8603e7ef92ed209a473cb58943bc604c6719b8",
 	"user2" => "b747047a1e4c9442afd96508cf8603e7ef92ed209a473cb58943bc604c6719b8"
 );
 //add users in the users array. keys are usernames, values are twice sha256'd passwords.
