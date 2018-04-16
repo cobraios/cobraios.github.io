@@ -113,6 +113,21 @@ Description: Awesome Short Description
 Author: cobraios < http://cobraios.github.io >
 Name: Xen Astral Weather 2
 
+Package: com.cobraios.XenBlue
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: cobraios
+Filename: ./debs/Xen_Blue.deb
+Size: 159154
+MD5sum: 1ba99ab6bf3fc6c27f485e34e18bb497
+SHA1: 3b051047551dcae7c025a5db104160d5c00ab039
+SHA256: 99053a03d4dbc8d6e6be2ce6b199bbc869786a1fdc9c10289f84b470dd955294
+Section: widgets (XenInfo)
+Homepage: http://cobraios.github.io
+Description: Xen Blue Custom +
+Author: cobraios < http://cobraios.github.io >
+Name: Xen Blue
+
 Package: com.cobraios.aneInfo
 Version: 1.2
 Architecture: iphoneos-arm
