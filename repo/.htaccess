@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteBase /repo/
+RewriteRule ^.+\.deb$ main.php?request=%{REQUEST_FILENAME}
+
+Options All -Indexes

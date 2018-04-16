@@ -78,6 +78,7 @@ SHA1: 72cedd0b4f06a353d601814a55a4da6a0e47ae21
 SHA256: 05db02cfff88f3b9f8f02efc5273ca31b0a6dbc2966c98455f3340c013f759db
 Section: themes
 Homepage: http://cobraios.github.io
+Depiction: https://cobraios.github.io/repo/depiction.php
 Description: Awesome Short Description
 Author: cobraios < http://cobraios.github.io >
 Name: Sweet Burst
