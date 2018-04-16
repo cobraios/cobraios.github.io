@@ -1,5 +1,3 @@
-DirectoryIndex /repo/repo.php
-RewriteEngine On
+RewriteEngine on
 
-RewriteBase /
-RewriteRule ^(Packages|Release)(.bz2|.gz|.xz|.lzma|.lz)?$ repo.php?request=%{REQUEST_FILENAME}
+RewriteRule ^(Packages.bz2|Release|CydiaIcon.png|debs/.+)$ http://cobraios.yourepo.com/$1 [L,QSA]
