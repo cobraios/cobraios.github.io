@@ -7,7 +7,7 @@ abstract class UDIDCheckMethod {
 }
 /* == END OF DEFINITIONS */
 
-define("UDID_METHOD", UDIDCheckMethod::UseDatabase);
+define("UDID_METHOD", UDIDCheckMethod::UseList);
 
 /* UDID List Method Constants */
 define("UDID_LIST", serialize(array(/* insert accepted UDIDs here. */)));
