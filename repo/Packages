@@ -128,6 +128,21 @@ Description: Xen Blue Custom +
 Author: cobraios < http://cobraios.github.io >
 Name: Xen Blue
 
+Package: com.cobraios.XenTRex
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: cobraios
+Filename: ./debs/Xen T-Rex.deb
+Size: 692392
+MD5sum: 153ff99db68f34b3ffb1538a3641e0b7
+SHA1: 5fad7b30d9180e1797b70db796246f7f0d9e6885
+SHA256: ad501b7f12723bbb0555cb2f6d8e0ac2521cec67c5d34d7f22d40a720e0543f8
+Section: widgets (XenInfo)
+Homepage: http://cobraios.github.io
+Description: Bring the T-Rex to your phone.
+Author: cobraios < http://cobraios.github.io >
+Name: Xen T-Rex
+
 Package: com.cobraios.aneInfo
 Version: 1.2
 Architecture: iphoneos-arm
