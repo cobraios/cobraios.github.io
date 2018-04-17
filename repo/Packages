@@ -132,11 +132,11 @@ Package: com.cobraios.XenTRex
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: cobraios
-Filename: ./debs/Xen T-Rex.deb
+Filename: ./debs/Xen_T-Rex.deb
 Size: 692392
-MD5sum: 153ff99db68f34b3ffb1538a3641e0b7
-SHA1: 5fad7b30d9180e1797b70db796246f7f0d9e6885
-SHA256: ad501b7f12723bbb0555cb2f6d8e0ac2521cec67c5d34d7f22d40a720e0543f8
+MD5sum: fb70decb151800ce507e6c130a12b93e
+SHA1: f985af1eeb247ea3c61e957d18a3de6b2b6ad23b
+SHA256: 9e31501cc14a77a8fdb71605379b2c9f149a0572129f42aea378a4e6cd3546cd
 Section: widgets (XenInfo)
 Homepage: http://cobraios.github.io
 Description: Bring the T-Rex to your phone.
