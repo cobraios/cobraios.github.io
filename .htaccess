@@ -1,3 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^(Packages.bz2|Release|CydiaIcon.png|debs/.+)$ http://cobraios.yourepo.com/$1 [L,QSA]
